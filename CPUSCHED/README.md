@@ -33,10 +33,10 @@ Arrival time    CPU Burst length    Priority
 How to Compile and Run
 
 1. Compile
-g++ -std=c++17 -o scheduler ./CPUSCHED/cpuScheduler.cpp
+g++ -std=c++17 -o scheduler cpuScheduler.cpp
 
 2. Run
-./CPUSCHED/scheduler
+scheduler
 
 3. Expected Output
 
